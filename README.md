@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# fluxsec.dev
 
 Repositorio de estudio y laboratorio de ciberseguridad.
@@ -30,3 +31,6 @@ Cada carpeta temática contiene subcarpetas específicas como \labs\, \documenta
 - Toda la documentación se redacta en formato Markdown.
 - Los laboratorios y ejercicios prácticos deben tener pasos claros y reproducibles.
 
+=======
+# fluxsec.dev
+>>>>>>> d59ae7776f88e267c69fa34c278744c58d172ff4
