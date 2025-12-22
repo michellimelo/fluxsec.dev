@@ -1,0 +1,6 @@
+﻿{
+  "name": "fluxsec-dev",
+  "main": "cf-worker/index.ts",
+  "compatibility_date": "2025-12-22",
+  "assets": { "directory": "absent-axis/dist" }
+}
